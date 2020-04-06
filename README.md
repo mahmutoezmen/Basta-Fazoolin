@@ -5,7 +5,7 @@ You’ve started position as the lead programmer for the family-style Italian re
 
 1) Making the Menus
 
-2)Creating the Franchises
+2) Creating the Franchises
 
-2)Creating Businesses!
+3) Creating Businesses!
 
